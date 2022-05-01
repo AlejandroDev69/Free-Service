@@ -4,3 +4,5 @@ Right Now, We are currently Working on things to add the file! Thank you for you
 # What is this?
 This is a free file app that allowes you to help, you can add apps, save then and text documents!
 Feel free to do anything!
+# ! READ SETUP.Obj !
+Please read that file for more things!
