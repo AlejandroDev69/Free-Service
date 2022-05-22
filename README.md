@@ -12,3 +12,4 @@ Well yes, Its free. Just download the app and youll be good! (Please make sure y
 No, But if it gives you a fake alarm thats its a virus. Please ignore it and continue to download it
 # Current Version
 (1.23.7) - Version (1.23.8) POSSIBLE Release at {july 1st}
+(Issued Update : ???)
